@@ -9,17 +9,15 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>MSX</platforms>
-		<extensions>rom|mx1|mx2</extensions>
+		<extensions></extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">MSX (fMSX) 3.9 9bfae24</summary>
-		<description>Source: https://github.com/libretro/fmsx-libretro
-
-Supported files: .rom, .mx1, .mx2</description>
+		<summary lang="en">MSX (fMSX)</summary>
+		<description>Source: https://github.com/libretro/fmsx-libretro</description>
 		<license>Non-commercial</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
