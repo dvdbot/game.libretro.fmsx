@@ -9,23 +9,6 @@
 		<feature name="left" mapto="left">
 	</controller>
 	<controller id="game.controller.msx.keyboard" type="keyboard">
-		<feature name="up" mapto="up">
-		<feature name="right" mapto="right">
-		<feature name="down" mapto="down">
-		<feature name="left" mapto="left">
-		<feature name="space" mapto="space">
-		<feature name="1" mapto="1">
-		<feature name="2" mapto="2">
-		<feature name="3" mapto="3">
-		<feature name="4" mapto="4">
-		<feature name="5" mapto="5">
-		<feature name="6" mapto="6">
-		<feature name="7" mapto="7">
-		<feature name="8" mapto="8">
-		<feature name="9" mapto="9">
-		<feature name="0" mapto="0">
-		
-		<feature name="" mapto="">
 	<!-- 					Special Keys						-->
 		<feature name="esc" mapto="esc">
 		<feature name="tab" mapto="tab">
