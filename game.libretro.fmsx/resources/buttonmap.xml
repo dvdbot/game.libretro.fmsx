@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buttonmap>
+	<controller id="game.controller.msx.joystick" type="joypad">
+		<feature name="a" mapto="a">
+		<feature name="b" mapto="b">
+		<feature name="up" mapto="up">
+		<feature name="right" mapto="right">
+		<feature name="down" mapto="down">
+		<feature name="left" mapto="left">
+	</controller>
+	<controller id="game.controller.msx.keyboard" type="keyboard">
+		<feature name="up" mapto="up">
+		<feature name="right" mapto="right">
+		<feature name="down" mapto="down">
+		<feature name="left" mapto="left">
+		<feature name="space" mapto="space">
+		<feature name="1" mapto="1">
+		<feature name="2" mapto="2">
+		<feature name="3" mapto="3">
+		<feature name="4" mapto="4">
+		<feature name="5" mapto="5">
+		<feature name="6" mapto="6">
+		<feature name="7" mapto="7">
+		<feature name="8" mapto="8">
+		<feature name="9" mapto="9">
+		<feature name="0" mapto="0">
+		
+		<feature name="" mapto="">
+	<!-- 					Special Keys						-->
+		<feature name="esc" mapto="esc">
+		<feature name="tab" mapto="tab">
+		<feature name="capslock" mapto="capslock">
+		<feature name="lshift" mapto="lshift">
+		<feature name="rshift" mapto="rshift">
+		<feature name="lctrl" mapto="lctrl">
+		<feature name="rctrl" mapto="rctrl">
+		<feature name="alt" mapto="alt">
+		<feature name="altgr" mapto="altgr">
+		<feature name="enter" mapto="enter">
+		<feature name="backspace" mapto="backspace">
+		<feature name="space" mapto="space">
+		<feature name="prtsc" mapto="prtsc">
+		<feature name="scrlk" mapto="scrlk">
+		<feature name="pause" mapto="pause">
+		<feature name="insert" mapto="insert">
+		<feature name="delete" mapto="delete">
+		<feature name="home" mapto="home">
+		<feature name="end" mapto="end">
+		<feature name="pgup" mapto="pgup">
+		<feature name="pgdn" mapto="pgdn">
+	<!-- 					Function Keys						-->
+		<feature name="f1" mapto="f1">
+		<feature name="f2" mapto="f2">
+		<feature name="f3" mapto="f3">
+		<feature name="f4" mapto="f4">
+		<feature name="f5" mapto="f5">
+		<feature name="f6" mapto="f6">
+		<feature name="f7" mapto="f7">
+		<feature name="f8" mapto="f8">
+		<feature name="f9" mapto="f9">
+		<feature name="f10" mapto="f10">
+		<feature name="f11" mapto="f11">
+		<feature name="f12" mapto="f12">
+		
+	<!-- 					Num Keys						-->
+		<feature name="1" mapto="1">
+		<feature name="2" mapto="2">
+		<feature name="3" mapto="3">
+		<feature name="4" mapto="4">
+		<feature name="5" mapto="5">
+		<feature name="6" mapto="6">
+		<feature name="7" mapto="7">
+		<feature name="8" mapto="8">
+		<feature name="9" mapto="9">
+		<feature name="0" mapto="0">
+		<feature name="plus" mapto="plus">
+		<feature name="minus" mapto="minus">
+		
+	<!-- 					Numpad Keys						-->
+		<feature name="num1" mapto="num1">
+		<feature name="num2" mapto="num2">
+		<feature name="num3" mapto="num3">
+		<feature name="num4" mapto="num4">
+		<feature name="num5" mapto="num5">
+		<feature name="num6" mapto="num6">
+		<feature name="num7" mapto="num7">
+		<feature name="num8" mapto="num8">
+		<feature name="num9" mapto="num9">
+		<feature name="num0" mapto="num0">
+		<feature name="numslash" mapto="numslash">
+		<feature name="numasterik" mapto="numasterik">
+		<feature name="numminus" mapto="numminus">
+		<feature name="numplus" mapto="numplus">
+		<feature name="numenter" mapto="numenter">
+		
+	<!-- 				Alphabetical Keys					-->
+		<feature name="a" mapto="a">
+		<feature name="b" mapto="b">
+		<feature name="c" mapto="c">
+		<feature name="d" mapto="d">
+		<feature name="e" mapto="e">
+		<feature name="f" mapto="f">
+		<feature name="g" mapto="g">
+		<feature name="h" mapto="h">
+		<feature name="i" mapto="i">
+		<feature name="j" mapto="j">
+		<feature name="k" mapto="k">
+		<feature name="l" mapto="l">
+		<feature name="m" mapto="m">
+		<feature name="n" mapto="n">
+		<feature name="o" mapto="o">
+		<feature name="p" mapto="p">
+		<feature name="q" mapto="q">
+		<feature name="r" mapto="r">
+		<feature name="s" mapto="s">
+		<feature name="t" mapto="t">
+		<feature name="u" mapto="u">
+		<feature name="v" mapto="v">
+		<feature name="w" mapto="w">
+		<feature name="x" mapto="x">
+		<feature name="y" mapto="y">
+		<feature name="z" mapto="z">
+		
+	<!-- 					Arrow Keys						-->
+		<feature name="up" mapto="up">
+		<feature name="right" mapto="right">
+		<feature name="down" mapto="down">
+		<feature name="left" mapto="left">
+		
+	<!-- 					Symbol Keys	(skipped these)		-->
+		<feature name="" mapto="">
+	</controller>
+</buttonmap>
